@@ -1,0 +1,5 @@
+﻿  array_parallelism.cpp
+c1xx : warning C4199: no se admite la búsqueda de nombres en dos fases para OpenMP, C++/CLI o C++/CX. Use /Zc:twoPhase-
+c:\users\david torres\documents\maestría\computo en la nube\prueba c++\parallelism_array_hw\array_parallelism\array_parallelism\array_parallelism.cpp(19): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\david torres\documents\maestría\computo en la nube\prueba c++\parallelism_array_hw\array_parallelism\array_parallelism\array_parallelism.cpp(20): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  array_parallelism.vcxproj -> C:\Users\David Torres\Documents\Maestría\Computo en la nube\Prueba C++\parallelism_array_hw\array_parallelism\Debug\array_parallelism.exe
